@@ -1,0 +1,1249 @@
+{
+  "plan": {
+    "thesis": "贵州茅台2024年相对2023年的归母及扣非归母利润增长是否主要来自主营经营改善？比较营收、毛利率、销售管理费用率、经营现金流。主要贡献占比未定义，保留精确归因未知。采用年报合并口径。",
+    "revisedThesis": "验证贵州茅台2024年归母及扣非归母利润增长是否主要来自主营经营改善，而非非经常性损益或非经营因素。",
+    "kind": "earnings",
+    "company": "贵州茅台",
+    "year": 2024,
+    "baseYear": 2023,
+    "valuationStart": "2024-01-01",
+    "valuationEnd": "2024-12-31",
+    "definition": "以2024年年度合并报表与2023年年度合并报表对照，比较归母净利润、扣非归母净利润、营业收入、毛利率、销售费用率、管理费用率、经营活动现金流净额的变化方向与幅度。若扣非归母净利润增速与归母净利润增速接近，且营收增长、毛利率稳定或提升、销售与管理费用率未显著上升、经营现金流与利润变动方向一致，则支持主营经营改善为主要驱动；若差异显著或现金流背离，则不支持。主要贡献占比未定义，保留精确归因未知。",
+    "questions": [
+      {
+        "id": "Q1",
+        "question": "2024年归母净利润与扣非归母净利润增速是否接近？",
+        "metric": "2024年与2023年年度合并报表归母净利润、扣非归母净利润"
+      },
+      {
+        "id": "Q2",
+        "question": "2024年营业收入增速与利润增速是否匹配？",
+        "metric": "2024年与2023年年度合并报表营业收入"
+      },
+      {
+        "id": "Q3",
+        "question": "2024年毛利率是否稳定或提升？",
+        "metric": "2024年与2023年年度合并报表毛利率"
+      },
+      {
+        "id": "Q4",
+        "question": "2024年销售费用率与管理费用率是否未显著上升？",
+        "metric": "2024年与2023年年度合并报表销售费用、管理费用、营业收入"
+      },
+      {
+        "id": "Q5",
+        "question": "2024年经营活动现金流净额与利润变动方向是否一致？",
+        "metric": "2024年与2023年年度合并报表经营活动现金流净额"
+      }
+    ],
+    "clarifications": [],
+    "financialPeriod": "annual",
+    "focus": [
+      "归母净利润",
+      "扣非归母净利润",
+      "营业收入",
+      "毛利率",
+      "销售费用率",
+      "管理费用率",
+      "经营活动现金流"
+    ],
+    "confirmedConditions": [],
+    "code": "600519.SH",
+    "name": "贵州茅台"
+  },
+  "study": {
+    "id": "f1a6c407-38be-47cb-9731-ac6774e3114b",
+    "plan": {
+      "thesis": "贵州茅台2024年相对2023年的归母及扣非归母利润增长是否主要来自主营经营改善？比较营收、毛利率、销售管理费用率、经营现金流。主要贡献占比未定义，保留精确归因未知。采用年报合并口径。",
+      "revisedThesis": "验证贵州茅台2024年归母及扣非归母利润增长是否主要来自主营经营改善，而非非经常性损益或非经营因素。",
+      "kind": "earnings",
+      "company": "贵州茅台",
+      "year": 2024,
+      "baseYear": 2023,
+      "valuationStart": "2024-01-01",
+      "valuationEnd": "2024-12-31",
+      "definition": "以2024年年度合并报表与2023年年度合并报表对照，比较归母净利润、扣非归母净利润、营业收入、毛利率、销售费用率、管理费用率、经营活动现金流净额的变化方向与幅度。若扣非归母净利润增速与归母净利润增速接近，且营收增长、毛利率稳定或提升、销售与管理费用率未显著上升、经营现金流与利润变动方向一致，则支持主营经营改善为主要驱动；若差异显著或现金流背离，则不支持。主要贡献占比未定义，保留精确归因未知。",
+      "questions": [
+        {
+          "id": "Q1",
+          "question": "2024年归母净利润与扣非归母净利润增速是否接近？",
+          "metric": "2024年与2023年年度合并报表归母净利润、扣非归母净利润"
+        },
+        {
+          "id": "Q2",
+          "question": "2024年营业收入增速与利润增速是否匹配？",
+          "metric": "2024年与2023年年度合并报表营业收入"
+        },
+        {
+          "id": "Q3",
+          "question": "2024年毛利率是否稳定或提升？",
+          "metric": "2024年与2023年年度合并报表毛利率"
+        },
+        {
+          "id": "Q4",
+          "question": "2024年销售费用率与管理费用率是否未显著上升？",
+          "metric": "2024年与2023年年度合并报表销售费用、管理费用、营业收入"
+        },
+        {
+          "id": "Q5",
+          "question": "2024年经营活动现金流净额与利润变动方向是否一致？",
+          "metric": "2024年与2023年年度合并报表经营活动现金流净额"
+        }
+      ],
+      "clarifications": [],
+      "financialPeriod": "annual",
+      "focus": [
+        "归母净利润",
+        "扣非归母净利润",
+        "营业收入",
+        "毛利率",
+        "销售费用率",
+        "管理费用率",
+        "经营活动现金流"
+      ],
+      "confirmedConditions": [],
+      "code": "600519.SH",
+      "name": "贵州茅台"
+    },
+    "createdAt": "2026-10-15T06:02:48.265Z",
+    "updatedAt": "2026-10-15T06:03:03.861Z",
+    "status": "complete",
+    "evidence": [
+      {
+        "id": "E1",
+        "stance": "support",
+        "title": "营业收入是否改善",
+        "finding": "2024年营业收入1,708.99亿元，对比2023年变化15.71%。这是收入变化证据，不能单独证明利润归因。",
+        "source": {
+          "provider": "扶摇",
+          "endpoint": "/api/a-share/financials/income-statements",
+          "fetchedAt": "2026-10-15T06:02:49.219Z",
+          "period": "2024年报 / 2023年报",
+          "kind": "original",
+          "requestId": "f1afe2072d1c4af1aa894f48b44942c7",
+          "rawId": "income",
+          "limitation": "最新返回版本；report_date_ms不可当作首次披露日。合并报表营业收入与主营业务收入不同。季报为年初至报告期末累计，不是单季。 已匹配此前核验的原文数值索引；本次未重新下载PDF。比较值和同比仍应核对年报表格。",
+          "url": "https://www.moutai.com.cn/mtgf/articleFileDir/2025-04/08/f1d5484ad59943f580d9b1edb6aa1475.pdf",
+          "title": "贵州茅台2024年年度报告",
+          "page": 5,
+          "originalVerifiedAt": "2026-10-14"
+        },
+        "value": "1,708.99亿元",
+        "comparison": "15.71%",
+        "calculation": "(本期营业收入－基期营业收入) ÷ |基期营业收入| × 100%",
+        "questionIds": [
+          "Q2"
+        ]
+      },
+      {
+        "id": "E2",
+        "stance": "support",
+        "title": "归母净利润是否改善",
+        "finding": "2024年归母净利润862.28亿元，变化15.38%。",
+        "source": {
+          "provider": "扶摇",
+          "endpoint": "/api/a-share/financials/income-statements",
+          "fetchedAt": "2026-10-15T06:02:49.219Z",
+          "period": "2024年报 / 2023年报",
+          "kind": "original",
+          "requestId": "f1afe2072d1c4af1aa894f48b44942c7",
+          "rawId": "income",
+          "limitation": "最新返回版本；report_date_ms不可当作首次披露日。合并报表营业收入与主营业务收入不同。季报为年初至报告期末累计，不是单季。 已匹配此前核验的原文数值索引；本次未重新下载PDF。比较值和同比仍应核对年报表格。",
+          "url": "https://www.moutai.com.cn/mtgf/articleFileDir/2025-04/08/f1d5484ad59943f580d9b1edb6aa1475.pdf",
+          "title": "贵州茅台2024年年度报告",
+          "page": 5,
+          "originalVerifiedAt": "2026-10-14"
+        },
+        "value": "862.28亿元",
+        "comparison": "15.38%",
+        "questionIds": [
+          "Q1",
+          "Q2"
+        ]
+      },
+      {
+        "id": "E3",
+        "stance": "oppose",
+        "title": "毛利率变化约束",
+        "finding": "按营业收入和营业成本计算，本期毛利率91.93%，基期91.96%，变化-0.03个百分点。下降只反对“毛利率提升驱动”这一子命题，不能单独推翻整体命题。",
+        "source": {
+          "provider": "扶摇",
+          "endpoint": "/api/a-share/financials/income-statements",
+          "fetchedAt": "2026-10-15T06:02:49.219Z",
+          "period": "2024年报 / 2023年报",
+          "kind": "original",
+          "requestId": "f1afe2072d1c4af1aa894f48b44942c7",
+          "rawId": "income",
+          "limitation": "毛利率为按营业收入和营业成本计算的结果，不是年报直接引语。数据已匹配固定原文索引，本次未重新下载PDF。",
+          "url": "https://www.moutai.com.cn/mtgf/articleFileDir/2025-04/08/f1d5484ad59943f580d9b1edb6aa1475.pdf",
+          "title": "贵州茅台2024年年度报告",
+          "page": 8,
+          "originalVerifiedAt": "2026-10-14"
+        },
+        "calculation": "毛利率 = (营业收入－营业成本) ÷ 营业收入 × 100%",
+        "questionIds": [
+          "Q3"
+        ]
+      },
+      {
+        "id": "E4",
+        "stance": "oppose",
+        "title": "销售费用率变化",
+        "finding": "本期销售费用率3.3%，对比期3.15%，变化0.15个百分点。费用率下降有助于利润率，不能替代完整利润归因。",
+        "source": {
+          "provider": "扶摇",
+          "endpoint": "/api/a-share/financials/income-statements",
+          "fetchedAt": "2026-10-15T06:02:49.219Z",
+          "period": "2024年报 / 2023年报",
+          "kind": "structured",
+          "requestId": "f1afe2072d1c4af1aa894f48b44942c7",
+          "rawId": "income",
+          "limitation": "最新返回版本；report_date_ms不可当作首次披露日。合并报表营业收入与主营业务收入不同。季报为年初至报告期末累计，不是单季。"
+        },
+        "calculation": "销售费用率 = 对应费用 ÷ 营业收入 × 100%",
+        "questionIds": [
+          "Q4"
+        ]
+      },
+      {
+        "id": "E5",
+        "stance": "support",
+        "title": "管理费用率变化",
+        "finding": "本期管理费用率5.45%，对比期6.59%，变化-1.14个百分点。费用率下降有助于利润率，不能替代完整利润归因。",
+        "source": {
+          "provider": "扶摇",
+          "endpoint": "/api/a-share/financials/income-statements",
+          "fetchedAt": "2026-10-15T06:02:49.219Z",
+          "period": "2024年报 / 2023年报",
+          "kind": "structured",
+          "requestId": "f1afe2072d1c4af1aa894f48b44942c7",
+          "rawId": "income",
+          "limitation": "最新返回版本；report_date_ms不可当作首次披露日。合并报表营业收入与主营业务收入不同。季报为年初至报告期末累计，不是单季。"
+        },
+        "calculation": "管理费用率 = 对应费用 ÷ 营业收入 × 100%",
+        "questionIds": [
+          "Q4"
+        ]
+      },
+      {
+        "id": "E6",
+        "stance": "support",
+        "title": "经营现金流交叉检查",
+        "finding": "经营现金流为924.64亿元，相比基期38.85%。现金流是利润质量的旁证，需考虑营运资本变化。",
+        "source": {
+          "provider": "扶摇",
+          "endpoint": "/api/a-share/financials/cash-flow-statements",
+          "fetchedAt": "2026-10-15T06:02:49.220Z",
+          "period": "2024年报 / 2023年报",
+          "kind": "original",
+          "rawId": "cash",
+          "requestId": "778e80bf486e471092be5bb6d474585d",
+          "url": "https://www.moutai.com.cn/mtgf/articleFileDir/2025-04/08/f1d5484ad59943f580d9b1edb6aa1475.pdf",
+          "title": "贵州茅台2024年年度报告",
+          "page": 5,
+          "originalVerifiedAt": "2026-10-14",
+          "limitation": "已匹配此前核验的原文数值索引；本次未重新下载PDF。比较值和同比仍应核对年报表格。"
+        },
+        "questionIds": [
+          "Q5"
+        ]
+      },
+      {
+        "id": "E7",
+        "stance": "context",
+        "title": "应收账款与收入的变化",
+        "finding": "应收账款变化-68.57%，营收变化15.71%。应收增速高于营收可构成收款质量疑点，不能直接认定收入不真实。",
+        "source": {
+          "provider": "扶摇",
+          "endpoint": "/api/a-share/financials/balance-sheets",
+          "fetchedAt": "2026-10-15T06:02:49.221Z",
+          "period": "2024",
+          "kind": "structured",
+          "rawId": "balance"
+        },
+        "questionIds": []
+      },
+      {
+        "id": "E8",
+        "stance": "support",
+        "title": "扣非利润是否同步改善",
+        "finding": "扣非归母净利润约862.41亿元，变化约15.37%。数值来自缩写表格，存在舍入；扣非利润不等同于主营利润。",
+        "source": {
+          "provider": "iFinD",
+          "endpoint": "get_stock_financials",
+          "fetchedAt": "2026-10-15T06:02:54.998Z",
+          "period": "2024年报 / 2023年报",
+          "kind": "original",
+          "rawId": "deducted2024",
+          "limitation": "按返回单元格的亿/万量级归一；不得声称精确到元。 已匹配此前核验的原文数值索引；本次未重新下载PDF。比较值和同比仍应核对年报表格。",
+          "url": "https://www.moutai.com.cn/mtgf/articleFileDir/2025-04/08/f1d5484ad59943f580d9b1edb6aa1475.pdf",
+          "title": "贵州茅台2024年年度报告",
+          "page": 5,
+          "originalVerifiedAt": "2026-10-14"
+        },
+        "questionIds": [
+          "Q1",
+          "Q2"
+        ]
+      },
+      {
+        "id": "E9",
+        "stance": "context",
+        "title": "公告检索线索",
+        "finding": "[{\"公告标题\":\"贵州茅台：贵州茅台2024年年度权益分派实施公告\",\"公告片段内容\":\"本次利润分配方案经贵州茅台酒股份有限公司（以下简称“公司”或“本公司”）2025年5月19日的2024年度股东大会审议通过。二、分配方案。（一）发放年度：2024年年度。（二）分派对象：。 根据公司2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配，向公司全体股东合计派发现金红利34,671,299,522.40元（含税）。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为 1,252,887,715股，公司按照维持分红总额不变的原则，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五入所致。2.本次差异化分红除权(息)的计算依据。 （2）公司本次利润分配方案仅进行现金红利分配，不送股和转增股本，因此公司流通股不会发生变化，流通股份变动比例为0。 股东中国贵州茅台酒厂（集团）有限责任公司、贵州茅台酒厂（集团）技术开发有限公司、贵州金融控股集团有限责任公司...\",\"日期\":\"2025-06-20\"},{\"公告标题\":\"贵州茅台：贵州茅台关于调整2024年年度利润分配方案每股分红金额的公告\",\"公告片段内容\":\"根据贵州茅台酒股份有限公司（以下简称“公司”）2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配， 向公司全体股东每10股派发现金红利276.24元（含税）。截至2025年3月31日，公司总股本1,256,197,800股，回购专用证券账户内股份数1,082,700股， 总股本扣除回购专用证券账户内的股份数为1,255,115,100股，以此计算合计派发现金红。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为1,252,887,715股，公司按照维持分红总额不变的原则，对2024年年度利润分配方案的每股分配比例进行调整， 调整后每股派发现金红利27.673元（含税）。具体情况如下：。 综上所述，公司2024年年度利润分配以方案实施前总股本扣除回购专用证券账户内的股份数1,252,887,715股为基数，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五...\",\"日期\":\"2025-06-14\"},{\"公告标题\":\"贵州茅台：贵州茅台关于召开2024年度及2025年第一季度业绩说明会的公告\",\"公告片段内容\":\"证券简称：贵州茅台。证券代码：600519。编号：临2025－017。贵州茅台酒股份有限公司。关于召开2024年度及2025年第一季度业绩说明会的公告。 贵州茅台酒股份有限公司（以下简称“公司”）已披露了《2024年年度报告》《2025年第一季度报告》。 为使广大投资者更加全面深入地了解公司的生产经营情况，公司将参加贵州证券业协会举办的2025年贵州辖区上市公司投资者集体接待日活动， 并于2025年5月12日（星期一）16:00—17:40召开2024年度及2025年第一季度业绩说明会，具体情况如下： 一、说明会类型。本次业绩说明会通过网络文字互动方式召开，公司将针对2024年度及2025年第一季度生产经营情况等方面与投资者进行在线交流，并在信息披露允许的范围内对投资者普遍关注的问题进行解答。 公司董事王莉女士（代行总经理职责），公司独立董事郭田勇先生，公司副总经理、财务总监、董事会秘书蒋焰女士。四、投资者参加方式。 本次业绩说明会召开后，投资者可通过“全景路演”(http://rs.p5w.net）查看本次业绩说明会的召开情况及主要内容。特此公告。贵州茅台酒股份有限公司董事会。202...\",\"日期\":\"2025-04-30\"},{\"备注\":\"出于对LLM上下文以及用户token资源的保护，本工具仅输出与查询内容强相关的公告片段文本，而非公告全文，如您需要对全文进行溯源或获取更多信息，建议使用公告标题查询公告披露原文。\"}]",
+        "source": {
+          "provider": "iFinD",
+          "endpoint": "search_notice",
+          "fetchedAt": "2026-10-15T06:02:56.780Z",
+          "period": "2024年报",
+          "kind": "lead",
+          "rawId": "notice",
+          "limitation": "相关片段可能截断或概括；未逐句确认原文，不作为直接引语或独立多票证据。"
+        },
+        "questionIds": []
+      },
+      {
+        "id": "E10",
+        "stance": "context",
+        "title": "官方年报原文已核对",
+        "finding": "公司官网2024年年报第5页：营业收入170,899,152,276.34元，归母净利润86,228,146,421.62元，扣非归母净利润86,240,905,977.42元；第8页说明收入增加与销量及主要产品售价调整有关。此条为2026-10-14人工核验的固定原文索引，不代表本次重新下载。",
+        "source": {
+          "provider": "公司官网 · 已核验原文索引",
+          "title": "贵州茅台2024年年度报告",
+          "url": "https://www.moutai.com.cn/mtgf/articleFileDir/2025-04/08/f1d5484ad59943f580d9b1edb6aa1475.pdf",
+          "page": 5,
+          "fetchedAt": "2026-10-14T22:55:06+08:00",
+          "period": "2024年报",
+          "limitation": "与接口年报数据来自同一底层披露，不能算独立来源；PDF SHA-256: 5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+          "kind": "original"
+        },
+        "questionIds": [
+          "Q1",
+          "Q2"
+        ]
+      },
+      {
+        "id": "E11",
+        "stance": "unknown",
+        "title": "主营利润的精确增量归因",
+        "finding": "现有汇总字段不能独立完成产品量、价、结构、费用和非经常项目对利润增量的完整分解。",
+        "source": {
+          "provider": "研究边界",
+          "endpoint": "归因边界",
+          "fetchedAt": "2026-10-15T06:02:56.780Z",
+          "kind": "gap"
+        },
+        "questionIds": []
+      }
+    ],
+    "metrics": [
+      {
+        "label": "营业收入",
+        "current": 170899152276.34,
+        "previous": 147693604994.14,
+        "unit": "元",
+        "change": 15.711951294790794
+      },
+      {
+        "label": "归母净利润",
+        "current": 86228146421.62,
+        "previous": 74734071550.75,
+        "unit": "元",
+        "change": 15.37996610162563
+      },
+      {
+        "label": "经营现金流",
+        "current": 92463692168.43,
+        "previous": 66593247721.09,
+        "unit": "元",
+        "change": 38.84844985439396
+      },
+      {
+        "label": "应收账款",
+        "current": 18974192.75,
+        "previous": 60373410.41,
+        "unit": "元",
+        "change": -68.57193817419797
+      },
+      {
+        "label": "毛利率",
+        "current": 91.93121663606458,
+        "previous": 91.96493724135799,
+        "unit": "%",
+        "change": -0.0337206052934107
+      },
+      {
+        "label": "销售费用率",
+        "current": 3.2997823478792814,
+        "previous": 3.1474711352630607,
+        "unit": "%",
+        "change": 0.15231121261622071
+      },
+      {
+        "label": "管理费用率",
+        "current": 5.450963294023136,
+        "previous": 6.587549442439318,
+        "unit": "%",
+        "change": -1.1365861484161819
+      },
+      {
+        "label": "扣非归母净利润",
+        "current": 86240910000,
+        "previous": 74752560000,
+        "unit": "元",
+        "change": 15.368503767630164
+      }
+    ],
+    "sources": [
+      {
+        "id": "income",
+        "label": "利润表",
+        "status": "success",
+        "detail": "已获取；按证据口径使用",
+        "elapsedMs": 312
+      },
+      {
+        "id": "cash",
+        "label": "现金流量表",
+        "status": "success",
+        "detail": "已获取；按证据口径使用",
+        "elapsedMs": 554
+      },
+      {
+        "id": "balance",
+        "label": "资产负债表",
+        "status": "success",
+        "detail": "已获取；按证据口径使用",
+        "elapsedMs": 400
+      },
+      {
+        "id": "deducted2024",
+        "label": "2024扣非利润",
+        "status": "success",
+        "detail": "已获取；按证据口径使用",
+        "elapsedMs": 2953
+      },
+      {
+        "id": "deducted2023",
+        "label": "2023扣非利润",
+        "status": "success",
+        "detail": "已获取；按证据口径使用",
+        "elapsedMs": 2824
+      },
+      {
+        "id": "notice",
+        "label": "公告材料",
+        "status": "success",
+        "detail": "已获取；按证据口径使用",
+        "elapsedMs": 1782
+      }
+    ],
+    "history": [],
+    "conclusion": {
+      "verdict": "部分支持",
+      "summary": "2024年营收增15.71%、归母净利增15.38%、扣非增约15.37%，增速高度接近，毛利率微降0.03个百分点，管理费用率降1.14个百分点，销售费用率升0.15个百分点，经营现金流增38.85%。多项主营指标方向一致，支持主营经营改善是利润增长的重要来源，但缺乏量价结构与非经常项目的完整增量归因，无法认定'主要来自主营'。",
+      "confidence": "有限",
+      "points": [
+        {
+          "text": "归母净利润增速15.38%与扣非归母净利润增速约15.37%高度接近，非经常性损益对利润增速的扰动有限，利润增长主要体现为经常性经营成果。",
+          "evidenceIds": [
+            "E2",
+            "E8"
+          ]
+        },
+        {
+          "text": "营业收入增长15.71%，与归母净利润增速15.38%基本匹配，收入端扩张与利润增长方向一致。",
+          "evidenceIds": [
+            "E1",
+            "E2"
+          ]
+        },
+        {
+          "text": "毛利率91.93%较基期91.96%微降0.03个百分点，基本稳定，未对利润增长形成明显拖累，但也未提供额外提升贡献。",
+          "evidenceIds": [
+            "E3"
+          ]
+        },
+        {
+          "text": "管理费用率下降1.14个百分点，销售费用率上升0.15个百分点，费用端整体未显著恶化；经营现金流增长38.85%，与利润增长方向一致，构成利润质量的旁证。",
+          "evidenceIds": [
+            "E4",
+            "E5",
+            "E6"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "condition": "若取得产品量、价、结构及非经常性项目的完整增量分解，且显示主营经营贡献占比超过半数（阈值需确认）",
+          "effect": "结论可由部分支持上调为支持",
+          "evidenceIds": [
+            "E1",
+            "E2",
+            "E8"
+          ]
+        },
+        {
+          "condition": "若后续核验显示扣非与归母增速差异显著扩大，或存在大额非经常性损益调节（阈值需确认）",
+          "effect": "结论将转向不支持主营经营改善为主要驱动",
+          "evidenceIds": [
+            "E2",
+            "E8"
+          ]
+        },
+        {
+          "condition": "若经营现金流增长主要来自营运资本一次性变动而非经营回款改善",
+          "effect": "现金流对利润质量的支撑减弱，结论维持部分支持或下调",
+          "evidenceIds": [
+            "E6"
+          ]
+        }
+      ],
+      "conflicts": [
+        {
+          "description": "销售费用率上升0.15个百分点与管理费用率下降1.14个百分点方向相反，费用端对利润的净影响方向需综合判断。",
+          "resolution": "保留两项分别列示，不合并为单一'费用改善'结论；净影响需进一步拆分确认。",
+          "evidenceIds": [
+            "E4",
+            "E5"
+          ]
+        },
+        {
+          "description": "E10为与接口数据同源的官方年报原文索引，不能作为独立第二来源。",
+          "resolution": "按同源披露去重处理，仅作口径核对，不重复计为独立证据。",
+          "evidenceIds": [
+            "E10"
+          ]
+        },
+        {
+          "description": "扣非归母净利润数值来自缩写表格，存在舍入，且扣非利润不等同于主营利润。",
+          "resolution": "保留约数表述，不声称精确到元；不将扣非直接等同于主营利润。",
+          "evidenceIds": [
+            "E8"
+          ]
+        }
+      ],
+      "limitations": [
+        "现有汇总字段无法完成产品量、价、结构、费用及非经常项目对利润增量的完整分解，'主要来自主营'的精确归因未知。",
+        "毛利率为按营业收入与营业成本计算的结果，非年报直接引语。",
+        "经营现金流受营运资本变化影响，不能单独证明利润质量。",
+        "E7、E9为未核验检索线索，不作为事实依据。",
+        "接口数据为最新返回版本，比较值与同比仍应核对年报表格。"
+      ],
+      "aiStatus": "DeepSeek 分析 · 引用ID已校验"
+    },
+    "raw": {
+      "income": {
+        "code": 0,
+        "message": "success",
+        "request_id": "f1afe2072d1c4af1aa894f48b44942c7",
+        "data": {
+          "timestamp": 1767110400000,
+          "item": [
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2025,
+              "fiscal_period": "FY",
+              "report_date_ms": 1776355200000,
+              "period_end_ms": 1767110400000,
+              "currency": "CNY",
+              "operating_income": 168838102514.79,
+              "operating_costs": 14892277570.91,
+              "operating_expenses": 57370818034.33,
+              "sales_fee": 7253499600.68,
+              "manage_fee": 8320061659.66,
+              "research_and_development_expenses": 190112246.58,
+              "operating_profit": 114808950164.24,
+              "interest_expenses": 175775959.12,
+              "profit_total": 114755261605.08,
+              "income_tax_expense": 29444936771.41,
+              "net_profit": 85310324833.67,
+              "parent_holder_net_profit": 82320067101.68,
+              "basic_eps": 65.66
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2024,
+              "fiscal_period": "FY",
+              "report_date_ms": 1776355200000,
+              "period_end_ms": 1735574400000,
+              "currency": "CNY",
+              "operating_income": 170899152276.34,
+              "operating_costs": 13789482367.98,
+              "operating_expenses": 54523971452.57,
+              "sales_fee": 5639300059.49,
+              "manage_fee": 9315650060.38,
+              "research_and_development_expenses": 218375472.87,
+              "operating_profit": 119688579453.23,
+              "interest_expenses": 105127802.03,
+              "profit_total": 119638578194.46,
+              "income_tax_expense": 30303850168.56,
+              "net_profit": 89334728025.9,
+              "parent_holder_net_profit": 86228146421.62,
+              "basic_eps": 68.64
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2023,
+              "fiscal_period": "FY",
+              "report_date_ms": 1743609600000,
+              "period_end_ms": 1703952000000,
+              "currency": "CNY",
+              "operating_income": 147693604994.14,
+              "operating_costs": 11867273851.78,
+              "operating_expenses": 46960889468.54,
+              "sales_fee": 4648613585.82,
+              "manage_fee": 9729389252.31,
+              "research_and_development_expenses": 157371873.01,
+              "operating_profit": 103708655208.38,
+              "interest_expenses": 113500129.93,
+              "profit_total": 103662553689.81,
+              "income_tax_expense": 26141077412.01,
+              "net_profit": 77521476277.8,
+              "parent_holder_net_profit": 74734071550.75,
+              "basic_eps": 59.49
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2022,
+              "fiscal_period": "FY",
+              "report_date_ms": 1712073600000,
+              "period_end_ms": 1672416000000,
+              "currency": "CNY",
+              "operating_income": 124099843771.99,
+              "operating_costs": 10093468616.63,
+              "operating_expenses": 39748309616.85,
+              "sales_fee": 3297724190.94,
+              "manage_fee": 9012191073.63,
+              "research_and_development_expenses": 135185680.4,
+              "operating_profit": 87879521782.39,
+              "interest_expenses": 105584206.24,
+              "profit_total": 87701489748.18,
+              "income_tax_expense": 22325449790.3,
+              "net_profit": 65376039957.88,
+              "parent_holder_net_profit": 62717467870.12,
+              "basic_eps": 49.93
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2021,
+              "fiscal_period": "FY",
+              "report_date_ms": 1680192000000,
+              "period_end_ms": 1640880000000,
+              "currency": "CNY",
+              "operating_income": 106190154843.76,
+              "operating_costs": 8983377809.96,
+              "operating_expenses": 34776902467.47,
+              "sales_fee": 2737369434.78,
+              "manage_fee": 8450274065.03,
+              "research_and_development_expenses": 61923213.59,
+              "operating_profit": 74750880777.52,
+              "interest_expenses": 173897197.98,
+              "profit_total": 74528031894.76,
+              "income_tax_expense": 18807501938.3,
+              "net_profit": 55720529956.46,
+              "parent_holder_net_profit": 52460144378.16,
+              "basic_eps": 41.76
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2020,
+              "fiscal_period": "FY",
+              "report_date_ms": 1648656000000,
+              "period_end_ms": 1609344000000,
+              "currency": "CNY",
+              "operating_income": 94915380916.72,
+              "operating_costs": 8154001476.28,
+              "operating_expenses": 31305130587.56,
+              "sales_fee": 2547745650.95,
+              "manage_fee": 6789844289.39,
+              "research_and_development_expenses": 50398036.33,
+              "operating_profit": 66635079882.38,
+              "interest_expenses": 111128537.31,
+              "profit_total": 66196941991.11,
+              "income_tax_expense": 16673612108.71,
+              "net_profit": 49523329882.4,
+              "parent_holder_net_profit": 46697285429.81,
+              "basic_eps": 37.17
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2019,
+              "fiscal_period": "FY",
+              "report_date_ms": 1617120000000,
+              "period_end_ms": 1577721600000,
+              "currency": "CNY",
+              "operating_income": 85429573467.25,
+              "operating_costs": 7430013945.12,
+              "operating_expenses": 29812253033.37,
+              "sales_fee": 3278990982.26,
+              "manage_fee": 6167982844.22,
+              "research_and_development_expenses": 48688841.05,
+              "operating_profit": 59041489276.14,
+              "interest_expenses": 145752825.87,
+              "profit_total": 58782551797.72,
+              "income_tax_expense": 14812551005.21,
+              "net_profit": 43970000792.51,
+              "parent_holder_net_profit": 41206471014.43,
+              "basic_eps": 32.8
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2018,
+              "fiscal_period": "FY",
+              "report_date_ms": 1587484800000,
+              "period_end_ms": 1546185600000,
+              "currency": "CNY",
+              "operating_income": 73638872388.03,
+              "operating_costs": 6522921833.77,
+              "operating_expenses": 25864740879.03,
+              "sales_fee": 2572076872.16,
+              "manage_fee": 5325940762.24,
+              "research_and_development_expenses": 21953605.93,
+              "operating_profit": 51342987681.18,
+              "interest_expenses": 136317779.84,
+              "profit_total": 50827603447.47,
+              "income_tax_expense": 12997985690.66,
+              "net_profit": 37829617756.81,
+              "parent_holder_net_profit": 35203625263.22,
+              "basic_eps": 28.02
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2017,
+              "fiscal_period": "FY",
+              "report_date_ms": 1553788800000,
+              "period_end_ms": 1514649600000,
+              "currency": "CNY",
+              "operating_income": 58217861314.17,
+              "operating_costs": 5940436371.97,
+              "operating_expenses": 22122749332.71,
+              "sales_fee": 2986068544.99,
+              "manage_fee": 4701795567.31,
+              "research_and_development_expenses": 18747252.83,
+              "operating_profit": 38940007533.45,
+              "interest_expenses": 135187797.06,
+              "profit_total": 38740072142.6,
+              "income_tax_expense": 9733648906.6,
+              "net_profit": 29006423236,
+              "parent_holder_net_profit": 27079360255.74,
+              "basic_eps": 21.56
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2016,
+              "fiscal_period": "FY",
+              "report_date_ms": 1522166400000,
+              "period_end_ms": 1483113600000,
+              "currency": "CNY",
+              "operating_income": 38862189993.84,
+              "operating_costs": 3410104085.97,
+              "operating_expenses": 15889459243.51,
+              "sales_fee": 1681052022.9,
+              "manage_fee": 4187189840.42,
+              "research_and_development_expenses": null,
+              "operating_profit": 24265625169.42,
+              "interest_expenses": 122961049.54,
+              "profit_total": 23957880957.11,
+              "income_tax_expense": 6027237847.23,
+              "net_profit": 17930643109.88,
+              "parent_holder_net_profit": 16718362734.16,
+              "basic_eps": 13.31
+            }
+          ]
+        }
+      },
+      "cash": {
+        "code": 0,
+        "message": "success",
+        "request_id": "778e80bf486e471092be5bb6d474585d",
+        "data": {
+          "timestamp": 1767110400000,
+          "item": [
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2025,
+              "fiscal_period": "FY",
+              "report_date_ms": 1776355200000,
+              "period_end_ms": 1767110400000,
+              "currency": "CNY",
+              "act_cash_flow_net": 61522204989.35,
+              "invest_cash_flow_net": -31641898948.89,
+              "financing_cash_flow_net": -73427081208.87,
+              "pay_fixed_assets_etc_cash": 3127594916.41,
+              "pay_dividends_profits_interest_cash": 67241733345.45,
+              "cash_equivalents_net_addition": -43544479810.11
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2024,
+              "fiscal_period": "FY",
+              "report_date_ms": 1776355200000,
+              "period_end_ms": 1735574400000,
+              "currency": "CNY",
+              "act_cash_flow_net": 92463692168.43,
+              "invest_cash_flow_net": -1785202630.71,
+              "financing_cash_flow_net": -71067506484.81,
+              "pay_fixed_assets_etc_cash": 4678712053.56,
+              "pay_dividends_profits_interest_cash": 70951027702.94,
+              "cash_equivalents_net_addition": 19609900305.36
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2023,
+              "fiscal_period": "FY",
+              "report_date_ms": 1743609600000,
+              "period_end_ms": 1703952000000,
+              "currency": "CNY",
+              "act_cash_flow_net": 66593247721.09,
+              "invest_cash_flow_net": -9724414015.16,
+              "financing_cash_flow_net": -58889101991.94,
+              "pay_fixed_assets_etc_cash": 2619755888.79,
+              "pay_dividends_profits_interest_cash": 58754786730.01,
+              "cash_equivalents_net_addition": -2018550030.36
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2022,
+              "fiscal_period": "FY",
+              "report_date_ms": 1712073600000,
+              "period_end_ms": 1672416000000,
+              "currency": "CNY",
+              "act_cash_flow_net": 36698595830.03,
+              "invest_cash_flow_net": -5536826334.9,
+              "financing_cash_flow_net": -57424528979.83,
+              "pay_fixed_assets_etc_cash": 5306546416.54,
+              "pay_dividends_profits_interest_cash": 57370196191.46,
+              "cash_equivalents_net_addition": -26261848396.69
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2021,
+              "fiscal_period": "FY",
+              "report_date_ms": 1680192000000,
+              "period_end_ms": 1640880000000,
+              "currency": "CNY",
+              "act_cash_flow_net": 64028676147.37,
+              "invest_cash_flow_net": -5562445704.34,
+              "financing_cash_flow_net": -26564141388.96,
+              "pay_fixed_assets_etc_cash": 3408784532.01,
+              "pay_dividends_profits_interest_cash": 26476019839.37,
+              "cash_equivalents_net_addition": 31900062511.47
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2020,
+              "fiscal_period": "FY",
+              "report_date_ms": 1648656000000,
+              "period_end_ms": 1609344000000,
+              "currency": "CNY",
+              "act_cash_flow_net": 51669068693.03,
+              "invest_cash_flow_net": -1805227155.72,
+              "financing_cash_flow_net": -24127536908.26,
+              "pay_fixed_assets_etc_cash": 2089769498.78,
+              "pay_dividends_profits_interest_cash": 24091029750.51,
+              "cash_equivalents_net_addition": 25736685268.41
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2019,
+              "fiscal_period": "FY",
+              "report_date_ms": 1617120000000,
+              "period_end_ms": 1577721600000,
+              "currency": "CNY",
+              "act_cash_flow_net": 45210612632.56,
+              "invest_cash_flow_net": -3165685743.25,
+              "financing_cash_flow_net": -19284402829.22,
+              "pay_fixed_assets_etc_cash": 3148864661.38,
+              "pay_dividends_profits_interest_cash": 20117402829.22,
+              "cash_equivalents_net_addition": 22760551300.1
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2018,
+              "fiscal_period": "FY",
+              "report_date_ms": 1587484800000,
+              "period_end_ms": 1546185600000,
+              "currency": "CNY",
+              "act_cash_flow_net": 41385234406.72,
+              "invest_cash_flow_net": -1628962704.56,
+              "financing_cash_flow_net": -16441093160.06,
+              "pay_fixed_assets_etc_cash": 1606750226.28,
+              "pay_dividends_profits_interest_cash": 16441093160.06,
+              "cash_equivalents_net_addition": 23315207548.96
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2017,
+              "fiscal_period": "FY",
+              "report_date_ms": 1553788800000,
+              "period_end_ms": 1514649600000,
+              "currency": "CNY",
+              "act_cash_flow_net": 22153036084.13,
+              "invest_cash_flow_net": -1120645214.6,
+              "financing_cash_flow_net": -8899177880.8,
+              "pay_fixed_assets_etc_cash": 1125017192.45,
+              "pay_dividends_profits_interest_cash": 8905177880.8,
+              "cash_equivalents_net_addition": 12133285937.59
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2016,
+              "fiscal_period": "FY",
+              "report_date_ms": 1522166400000,
+              "period_end_ms": 1483113600000,
+              "currency": "CNY",
+              "act_cash_flow_net": 37451249647.05,
+              "invest_cash_flow_net": -1102500804.2,
+              "financing_cash_flow_net": -8334512252.23,
+              "pay_fixed_assets_etc_cash": 1019178136.92,
+              "pay_dividends_profits_interest_cash": 8350512252.23,
+              "cash_equivalents_net_addition": 28014308908.42
+            }
+          ]
+        }
+      },
+      "balance": {
+        "code": 0,
+        "message": "success",
+        "request_id": "163c48b94d614702bfce1ce0bf794f9a",
+        "data": {
+          "timestamp": 1767110400000,
+          "item": [
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2025,
+              "fiscal_period": "FY",
+              "report_date_ms": 1786723200000,
+              "period_end_ms": 1767110400000,
+              "currency": "CNY",
+              "assets_total": 303834844021.44,
+              "total_current_assets": 252518662398.57,
+              "non_current_nets_total": 51316181622.87,
+              "cash": 51690610946.5,
+              "accounts_receivable": 2609048.49,
+              "total_debt": 49875590112.37,
+              "holder_equity_total": 253959253909.07
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2024,
+              "fiscal_period": "FY",
+              "report_date_ms": 1776355200000,
+              "period_end_ms": 1735574400000,
+              "currency": "CNY",
+              "assets_total": 298944579918.7,
+              "total_current_assets": 251726674636.66,
+              "non_current_nets_total": 47217905282.04,
+              "cash": 59295822956.89,
+              "accounts_receivable": 18974192.75,
+              "total_debt": 56933264798.1,
+              "holder_equity_total": 242011315120.6
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2023,
+              "fiscal_period": "FY",
+              "report_date_ms": 1743609600000,
+              "period_end_ms": 1703952000000,
+              "currency": "CNY",
+              "assets_total": 272699660092.25,
+              "total_current_assets": 225172517821.28,
+              "non_current_nets_total": 47527142270.97,
+              "cash": 69070136376.12,
+              "accounts_receivable": 60373410.41,
+              "total_debt": 49043190797.43,
+              "holder_equity_total": 223656469294.82
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2022,
+              "fiscal_period": "FY",
+              "report_date_ms": 1712073600000,
+              "period_end_ms": 1672416000000,
+              "currency": "CNY",
+              "assets_total": 254500826096.02,
+              "total_current_assets": 216611435672.92,
+              "non_current_nets_total": 37889390423.1,
+              "cash": 58274318733.23,
+              "accounts_receivable": 20937144,
+              "total_debt": 49562744832.16,
+              "holder_equity_total": 204938081263.86
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2021,
+              "fiscal_period": "FY",
+              "report_date_ms": 1680192000000,
+              "period_end_ms": 1640880000000,
+              "currency": "CNY",
+              "assets_total": 255168195159.9,
+              "total_current_assets": 220765692846.31,
+              "non_current_nets_total": 34402502313.59,
+              "cash": 51810243607.11,
+              "accounts_receivable": null,
+              "total_debt": 58210688454.56,
+              "holder_equity_total": 196957506705.34
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2020,
+              "fiscal_period": "FY",
+              "report_date_ms": 1648656000000,
+              "period_end_ms": 1609344000000,
+              "currency": "CNY",
+              "assets_total": 213395810527.46,
+              "total_current_assets": 185652154956.94,
+              "non_current_nets_total": 27743655570.52,
+              "cash": 36091090060.9,
+              "accounts_receivable": null,
+              "total_debt": 45675127426.18,
+              "holder_equity_total": 167720683101.28
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2019,
+              "fiscal_period": "FY",
+              "report_date_ms": 1617120000000,
+              "period_end_ms": 1577721600000,
+              "currency": "CNY",
+              "assets_total": 183042372042.5,
+              "total_current_assets": 159024472009.08,
+              "non_current_nets_total": 24017900033.42,
+              "cash": 13251817237.85,
+              "accounts_receivable": null,
+              "total_debt": 41165991813.85,
+              "holder_equity_total": 141876380228.65
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2018,
+              "fiscal_period": "FY",
+              "report_date_ms": 1587484800000,
+              "period_end_ms": 1546185600000,
+              "currency": "CNY",
+              "assets_total": 159846674736.01,
+              "total_current_assets": 137861835307.57,
+              "non_current_nets_total": 21984839428.44,
+              "cash": 112074791420.06,
+              "accounts_receivable": null,
+              "total_debt": 42438186813.48,
+              "holder_equity_total": 117408487922.53
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2017,
+              "fiscal_period": "FY",
+              "report_date_ms": 1553788800000,
+              "period_end_ms": 1514649600000,
+              "currency": "CNY",
+              "assets_total": 134610116875.08,
+              "total_current_assets": 112249185961.6,
+              "non_current_nets_total": 22360930913.48,
+              "cash": 87868869913.34,
+              "accounts_receivable": null,
+              "total_debt": 38590489400,
+              "holder_equity_total": 96019627475.08
+            },
+            {
+              "thscode": "600519.SH",
+              "ticker": "600519",
+              "period": "annual",
+              "fiscal_year": 2016,
+              "fiscal_period": "FY",
+              "report_date_ms": 1522166400000,
+              "period_end_ms": 1483113600000,
+              "currency": "CNY",
+              "assets_total": 112934538280.41,
+              "total_current_assets": 90180548805.57,
+              "non_current_nets_total": 22753989474.84,
+              "cash": 66854962118.22,
+              "accounts_receivable": null,
+              "total_debt": 37035995425.69,
+              "holder_equity_total": 75898542854.72
+            }
+          ]
+        }
+      },
+      "deducted2024": {
+        "data": {
+          "trade_time_description": "# 行情衍生指标日期提示\n\n当前时间是 14:01:37 ，由于本工具输出的行情类指标为日频指标，若请求时间早于当日收盘时间，则所有行情数据以及当日依赖行情数据计算的指标（如市值、估值、技术指标），实际使用的是昨日收盘后数据计算，每日日频数据更新时间一般在 15:05-15:15，请注意甄别",
+          "answer": "|证券代码|证券简称|日期|扣除非经常性损益后的归属母公司股东净利润（单位：元）|\n|---|---|---|---|\n|600519.SH|贵州茅台|20241231|862.4091亿|",
+          "indicators_params": {
+            "扣除非经常性损益后的归属母公司股东净利润": {
+              "单位": " 元",
+              "报表类型": "合并报表",
+              "报告期": "最新一期(MRQ)"
+            }
+          }
+        },
+        "answer": "|证券代码|证券简称|日期|扣除非经常性损益后的归属母公司股东净利润（单位：元）|\n|---|---|---|---|\n|600519.SH|贵州茅台|20241231|862.4091亿|",
+        "raw": {
+          "code": 1,
+          "msg": "success",
+          "subCode": null,
+          "subMsg": null,
+          "data": {
+            "trade_time_description": "# 行情衍生指标日期提示\n\n当前时间是 14:01:37 ，由于本工具输出的行情类指标为日频指标，若请求时间早于当日收盘时间，则所有行情数据以及当日依赖行情数据计算的指标（如市值、估值、技术指标），实际使用的是昨日收盘后数据计算，每日日频数据更新时间一般在 15:05-15:15，请注意甄别",
+            "answer": "|证券代码|证券简称|日期|扣除非经常性损益后的归属母公司股东净利润（单位：元）|\n|---|---|---|---|\n|600519.SH|贵州茅台|20241231|862.4091亿|",
+            "indicators_params": {
+              "扣除非经常性损益后的归属母公司股东净利润": {
+                "单位": " 元",
+                "报表类型": "合并报表",
+                "报告期": "最新一期(MRQ)"
+              }
+            }
+          }
+        }
+      },
+      "deducted2023": {
+        "data": {
+          "trade_time_description": "# 行情衍生指标日期提示\n\n当前时间是 14:01:40 ，由于本工具输出的行情类指标为日频指标，若请求时间早于当日收盘时间，则所有行情数据以及当日依赖行情数据计算的指标（如市值、估值、技术指标），实际使用的是昨日收盘后数据计算，每日日频数据更新时间一般在 15:05-15:15，请注意甄别",
+          "answer": "|证券代码|证券简称|日期|扣除非经常性损益后的归属母公司股东净利润（单位：元）|\n|---|---|---|---|\n|600519.SH|贵州茅台|20231231|747.5256亿|",
+          "indicators_params": {
+            "扣除非经常性损益后的归属母公司股东净利润": {
+              "单位": " 元",
+              "报表类型": "合并报表",
+              "报告期": "最新一期(MRQ)"
+            }
+          }
+        },
+        "answer": "|证券代码|证券简称|日期|扣除非经常性损益后的归属母公司股东净利润（单位：元）|\n|---|---|---|---|\n|600519.SH|贵州茅台|20231231|747.5256亿|",
+        "raw": {
+          "code": 1,
+          "msg": "success",
+          "subCode": null,
+          "subMsg": null,
+          "data": {
+            "trade_time_description": "# 行情衍生指标日期提示\n\n当前时间是 14:01:40 ，由于本工具输出的行情类指标为日频指标，若请求时间早于当日收盘时间，则所有行情数据以及当日依赖行情数据计算的指标（如市值、估值、技术指标），实际使用的是昨日收盘后数据计算，每日日频数据更新时间一般在 15:05-15:15，请注意甄别",
+            "answer": "|证券代码|证券简称|日期|扣除非经常性损益后的归属母公司股东净利润（单位：元）|\n|---|---|---|---|\n|600519.SH|贵州茅台|20231231|747.5256亿|",
+            "indicators_params": {
+              "扣除非经常性损益后的归属母公司股东净利润": {
+                "单位": " 元",
+                "报表类型": "合并报表",
+                "报告期": "最新一期(MRQ)"
+              }
+            }
+          }
+        }
+      },
+      "notice": {
+        "data": "[{\"公告标题\":\"贵州茅台：贵州茅台2024年年度权益分派实施公告\",\"公告片段内容\":\"本次利润分配方案经贵州茅台酒股份有限公司（以下简称“公司”或“本公司”）2025年5月19日的2024年度股东大会审议通过。二、分配方案。（一）发放年度：2024年年度。（二）分派对象：。 根据公司2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配，向公司全体股东合计派发现金红利34,671,299,522.40元（含税）。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为 1,252,887,715股，公司按照维持分红总额不变的原则，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五入所致。2.本次差异化分红除权(息)的计算依据。 （2）公司本次利润分配方案仅进行现金红利分配，不送股和转增股本，因此公司流通股不会发生变化，流通股份变动比例为0。 股东中国贵州茅台酒厂（集团）有限责任公司、贵州茅台酒厂（集团）技术开发有限公司、贵州金融控股集团有限责任公司...\",\"日期\":\"2025-06-20\"},{\"公告标题\":\"贵州茅台：贵州茅台关于调整2024年年度利润分配方案每股分红金额的公告\",\"公告片段内容\":\"根据贵州茅台酒股份有限公司（以下简称“公司”）2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配， 向公司全体股东每10股派发现金红利276.24元（含税）。截至2025年3月31日，公司总股本1,256,197,800股，回购专用证券账户内股份数1,082,700股， 总股本扣除回购专用证券账户内的股份数为1,255,115,100股，以此计算合计派发现金红。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为1,252,887,715股，公司按照维持分红总额不变的原则，对2024年年度利润分配方案的每股分配比例进行调整， 调整后每股派发现金红利27.673元（含税）。具体情况如下：。 综上所述，公司2024年年度利润分配以方案实施前总股本扣除回购专用证券账户内的股份数1,252,887,715股为基数，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五...\",\"日期\":\"2025-06-14\"},{\"公告标题\":\"贵州茅台：贵州茅台关于召开2024年度及2025年第一季度业绩说明会的公告\",\"公告片段内容\":\"证券简称：贵州茅台。证券代码：600519。编号：临2025－017。贵州茅台酒股份有限公司。关于召开2024年度及2025年第一季度业绩说明会的公告。 贵州茅台酒股份有限公司（以下简称“公司”）已披露了《2024年年度报告》《2025年第一季度报告》。 为使广大投资者更加全面深入地了解公司的生产经营情况，公司将参加贵州证券业协会举办的2025年贵州辖区上市公司投资者集体接待日活动， 并于2025年5月12日（星期一）16:00—17:40召开2024年度及2025年第一季度业绩说明会，具体情况如下： 一、说明会类型。本次业绩说明会通过网络文字互动方式召开，公司将针对2024年度及2025年第一季度生产经营情况等方面与投资者进行在线交流，并在信息披露允许的范围内对投资者普遍关注的问题进行解答。 公司董事王莉女士（代行总经理职责），公司独立董事郭田勇先生，公司副总经理、财务总监、董事会秘书蒋焰女士。四、投资者参加方式。 本次业绩说明会召开后，投资者可通过“全景路演”(http://rs.p5w.net）查看本次业绩说明会的召开情况及主要内容。特此公告。贵州茅台酒股份有限公司董事会。202...\",\"日期\":\"2025-04-30\"},{\"备注\":\"出于对LLM上下文以及用户token资源的保护，本工具仅输出与查询内容强相关的公告片段文本，而非公告全文，如您需要对全文进行溯源或获取更多信息，建议使用公告标题查询公告披露原文。\"}]",
+        "answer": "[{\"公告标题\":\"贵州茅台：贵州茅台2024年年度权益分派实施公告\",\"公告片段内容\":\"本次利润分配方案经贵州茅台酒股份有限公司（以下简称“公司”或“本公司”）2025年5月19日的2024年度股东大会审议通过。二、分配方案。（一）发放年度：2024年年度。（二）分派对象：。 根据公司2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配，向公司全体股东合计派发现金红利34,671,299,522.40元（含税）。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为 1,252,887,715股，公司按照维持分红总额不变的原则，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五入所致。2.本次差异化分红除权(息)的计算依据。 （2）公司本次利润分配方案仅进行现金红利分配，不送股和转增股本，因此公司流通股不会发生变化，流通股份变动比例为0。 股东中国贵州茅台酒厂（集团）有限责任公司、贵州茅台酒厂（集团）技术开发有限公司、贵州金融控股集团有限责任公司...\",\"日期\":\"2025-06-20\"},{\"公告标题\":\"贵州茅台：贵州茅台关于调整2024年年度利润分配方案每股分红金额的公告\",\"公告片段内容\":\"根据贵州茅台酒股份有限公司（以下简称“公司”）2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配， 向公司全体股东每10股派发现金红利276.24元（含税）。截至2025年3月31日，公司总股本1,256,197,800股，回购专用证券账户内股份数1,082,700股， 总股本扣除回购专用证券账户内的股份数为1,255,115,100股，以此计算合计派发现金红。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为1,252,887,715股，公司按照维持分红总额不变的原则，对2024年年度利润分配方案的每股分配比例进行调整， 调整后每股派发现金红利27.673元（含税）。具体情况如下：。 综上所述，公司2024年年度利润分配以方案实施前总股本扣除回购专用证券账户内的股份数1,252,887,715股为基数，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五...\",\"日期\":\"2025-06-14\"},{\"公告标题\":\"贵州茅台：贵州茅台关于召开2024年度及2025年第一季度业绩说明会的公告\",\"公告片段内容\":\"证券简称：贵州茅台。证券代码：600519。编号：临2025－017。贵州茅台酒股份有限公司。关于召开2024年度及2025年第一季度业绩说明会的公告。 贵州茅台酒股份有限公司（以下简称“公司”）已披露了《2024年年度报告》《2025年第一季度报告》。 为使广大投资者更加全面深入地了解公司的生产经营情况，公司将参加贵州证券业协会举办的2025年贵州辖区上市公司投资者集体接待日活动， 并于2025年5月12日（星期一）16:00—17:40召开2024年度及2025年第一季度业绩说明会，具体情况如下： 一、说明会类型。本次业绩说明会通过网络文字互动方式召开，公司将针对2024年度及2025年第一季度生产经营情况等方面与投资者进行在线交流，并在信息披露允许的范围内对投资者普遍关注的问题进行解答。 公司董事王莉女士（代行总经理职责），公司独立董事郭田勇先生，公司副总经理、财务总监、董事会秘书蒋焰女士。四、投资者参加方式。 本次业绩说明会召开后，投资者可通过“全景路演”(http://rs.p5w.net）查看本次业绩说明会的召开情况及主要内容。特此公告。贵州茅台酒股份有限公司董事会。202...\",\"日期\":\"2025-04-30\"},{\"备注\":\"出于对LLM上下文以及用户token资源的保护，本工具仅输出与查询内容强相关的公告片段文本，而非公告全文，如您需要对全文进行溯源或获取更多信息，建议使用公告标题查询公告披露原文。\"}]",
+        "raw": {
+          "code": 1,
+          "msg": "success",
+          "subCode": null,
+          "subMsg": null,
+          "data": "[{\"公告标题\":\"贵州茅台：贵州茅台2024年年度权益分派实施公告\",\"公告片段内容\":\"本次利润分配方案经贵州茅台酒股份有限公司（以下简称“公司”或“本公司”）2025年5月19日的2024年度股东大会审议通过。二、分配方案。（一）发放年度：2024年年度。（二）分派对象：。 根据公司2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配，向公司全体股东合计派发现金红利34,671,299,522.40元（含税）。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为 1,252,887,715股，公司按照维持分红总额不变的原则，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五入所致。2.本次差异化分红除权(息)的计算依据。 （2）公司本次利润分配方案仅进行现金红利分配，不送股和转增股本，因此公司流通股不会发生变化，流通股份变动比例为0。 股东中国贵州茅台酒厂（集团）有限责任公司、贵州茅台酒厂（集团）技术开发有限公司、贵州金融控股集团有限责任公司...\",\"日期\":\"2025-06-20\"},{\"公告标题\":\"贵州茅台：贵州茅台关于调整2024年年度利润分配方案每股分红金额的公告\",\"公告片段内容\":\"根据贵州茅台酒股份有限公司（以下简称“公司”）2024年度股东大会决议，公司以实施权益分派股权登记日登记的总股本扣除回购专用证券账户内的股份为基数，实施2024年年度利润分配， 向公司全体股东每10股派发现金红利276.24元（含税）。截至2025年3月31日，公司总股本1,256,197,800股，回购专用证券账户内股份数1,082,700股， 总股本扣除回购专用证券账户内的股份数为1,255,115,100股，以此计算合计派发现金红。 截至本公告日，公司回购专用证券账户内股份数3,310,085股，总股本扣除回购专用证券账户内的股份数为1,252,887,715股，公司按照维持分红总额不变的原则，对2024年年度利润分配方案的每股分配比例进行调整， 调整后每股派发现金红利27.673元（含税）。具体情况如下：。 综上所述，公司2024年年度利润分配以方案实施前总股本扣除回购专用证券账户内的股份数1,252,887,715股为基数，每股派发现金红利27.673元（含税）， 共计派发现金红利34,671,161,737.20元（含税），与股东大会决议金额不一致系每股现金红利的尾数四舍五...\",\"日期\":\"2025-06-14\"},{\"公告标题\":\"贵州茅台：贵州茅台关于召开2024年度及2025年第一季度业绩说明会的公告\",\"公告片段内容\":\"证券简称：贵州茅台。证券代码：600519。编号：临2025－017。贵州茅台酒股份有限公司。关于召开2024年度及2025年第一季度业绩说明会的公告。 贵州茅台酒股份有限公司（以下简称“公司”）已披露了《2024年年度报告》《2025年第一季度报告》。 为使广大投资者更加全面深入地了解公司的生产经营情况，公司将参加贵州证券业协会举办的2025年贵州辖区上市公司投资者集体接待日活动， 并于2025年5月12日（星期一）16:00—17:40召开2024年度及2025年第一季度业绩说明会，具体情况如下： 一、说明会类型。本次业绩说明会通过网络文字互动方式召开，公司将针对2024年度及2025年第一季度生产经营情况等方面与投资者进行在线交流，并在信息披露允许的范围内对投资者普遍关注的问题进行解答。 公司董事王莉女士（代行总经理职责），公司独立董事郭田勇先生，公司副总经理、财务总监、董事会秘书蒋焰女士。四、投资者参加方式。 本次业绩说明会召开后，投资者可通过“全景路演”(http://rs.p5w.net）查看本次业绩说明会的召开情况及主要内容。特此公告。贵州茅台酒股份有限公司董事会。202...\",\"日期\":\"2025-04-30\"},{\"备注\":\"出于对LLM上下文以及用户token资源的保护，本工具仅输出与查询内容强相关的公告片段文本，而非公告全文，如您需要对全文进行溯源或获取更多信息，建议使用公告标题查询公告披露原文。\"}]"
+        }
+      }
+    },
+    "financialLabel": "2024年报 / 2023年报",
+    "questionAnswers": [
+      {
+        "questionId": "Q1",
+        "state": "answered",
+        "answer": "归母净利润增15.38%，扣非归母净利润增约15.37%，两者增速高度接近。",
+        "evidenceIds": [
+          "E2",
+          "E8"
+        ]
+      },
+      {
+        "questionId": "Q2",
+        "state": "answered",
+        "answer": "营业收入增15.71%，与归母净利润增速15.38%基本匹配。",
+        "evidenceIds": [
+          "E1",
+          "E2"
+        ]
+      },
+      {
+        "questionId": "Q3",
+        "state": "answered",
+        "answer": "毛利率91.93%，较基期91.96%微降0.03个百分点，基本稳定。",
+        "evidenceIds": [
+          "E3"
+        ]
+      },
+      {
+        "questionId": "Q4",
+        "state": "partial",
+        "answer": "管理费用率降1.14个百分点，销售费用率升0.15个百分点，费用端整体未显著上升，但两项方向相反。",
+        "evidenceIds": [
+          "E4",
+          "E5"
+        ]
+      },
+      {
+        "questionId": "Q5",
+        "state": "answered",
+        "answer": "经营现金流增38.85%，与利润增长方向一致，但需考虑营运资本变化。",
+        "evidenceIds": [
+          "E6"
+        ]
+      }
+    ],
+    "rootId": "f1a6c407-38be-47cb-9731-ac6774e3114b",
+    "version": 1
+  }
+}

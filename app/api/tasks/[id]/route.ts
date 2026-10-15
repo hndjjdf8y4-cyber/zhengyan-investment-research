@@ -1,0 +1,3 @@
+import { json, owner, db, originGuard, getStudy, errorText } from '@/lib/server';
+export async function GET(req:Request,{params}:{params:Promise<{id:string}>}){try{const who=await owner(req),{id}=await params;const study=await getStudy(who,id);return study?json({data:study}):json({error:'研究任务不存在，或不属于当前会话'},404);}catch(e){return json({error:errorText(e)},400);}}
+export async function DELETE(req:Request,{params}:{params:Promise<{id:string}>}){try{originGuard(req);const who=await owner(req),{id}=await params;await db().prepare('DELETE FROM studies WHERE id=? AND owner=?').bind(id,who).run();return json({data:{deleted:true}});}catch(e){return json({error:errorText(e)},400);}}
