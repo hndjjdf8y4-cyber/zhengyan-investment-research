@@ -1,3 +1,4 @@
+import { reportingYearSchema } from './reporting-year';
 import { z } from 'zod';
 import { model } from './server';
 import { resolveCompany } from './engine';
@@ -8,7 +9,7 @@ import type { ClarificationAnswer, Plan, PlanningResult } from './types';
 const isoDate=z.string().regex(/^\d{4}-\d{2}-\d{2}$/).refine(s=>Number.isFinite(Date.parse(s))&&new Date(s).toISOString().slice(0,10)===s,'研究日期无效');
 const planSchema=z.object({
   revisedThesis:z.string().min(8).max(1200),kind:z.enum(['earnings','valuation','industry']),
-  company:z.string().min(1).max(60),year:z.number().int().min(2017).max(new Date().getFullYear()),
+  company:z.string().min(1).max(60),year:reportingYearSchema,
   baseYear:z.number().int().min(2016),valuationStart:isoDate,valuationEnd:isoDate,
   financialPeriod:z.enum(['annual','latest']),definition:z.string().min(5).max(1800),
   focus:z.array(z.string().max(80)).min(1).max(8),
